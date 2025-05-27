@@ -192,7 +192,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/home/martial/Desktop/Simplon/api-nouvoulook/src/prisma/generated",
+      "value": "/Users/gabriel/Desktop/Code/formation_simplon/stage/api-nouvoulook/src/prisma/generated",
       "fromEnvVar": null
     },
     "config": {
@@ -201,17 +201,16 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "debian-openssl-3.0.x",
+        "value": "darwin-arm64",
         "native": true
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/home/martial/Desktop/Simplon/api-nouvoulook/prisma/schema.prisma",
+    "sourceFilePath": "/Users/gabriel/Desktop/Code/formation_simplon/stage/api-nouvoulook/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativeEnvPaths": {
-    "rootEnvPath": null,
-    "schemaEnvPath": "../../../.env"
+    "rootEnvPath": null
   },
   "relativePath": "../../../prisma",
   "clientVersion": "6.6.0",
